@@ -18,14 +18,9 @@ The following **bonus** features are implemented:
 - [ ] User can add a profile picture. (2pts)
 - [ ] Profile pictures are shown for posts and comments. (2pts)
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "https://media.giphy.com/media/Z87YubAkER7ZSnr8Pv/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= "https://media.giphy.com/media/sYlC6nvM1BwiGQsGgn/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
